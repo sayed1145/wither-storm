@@ -1,0 +1,114 @@
+{
+  "repository": "https://github.com/sayed1145/wither-storm",
+  "version": "1.7.1",
+  "modAuthor": "sayed1145",
+  "engineeringCredit": "NLM-2b",
+  "baseCommit": "6062f98",
+  "importedBaselineJarSHA256": "438d9ff1e260af4c43c8004885fa0ee393d001c1a24c9bff404289dfd230d81a",
+  "jarSHA256": "2689da98b7ec1b08de8686b892e66d7bfe18b6a29623dbc6e09da8d8e5c1864f",
+  "runtimeClassesByteIdentical": 41,
+  "dexByteIdentical": true,
+  "unchangedBaselineRuntimeResourceFiles": 17,
+  "assetFiles": [
+    {
+      "path": "assets/blueprints/wither-storm.hjson",
+      "bytes": 260,
+      "sha256": "dbe460f8cbb9cc635586f2d84e740dc38e63004478c679309dc9c15b4da83cbf"
+    },
+    {
+      "path": "assets/bundles/bundle.properties",
+      "bytes": 678,
+      "sha256": "0eeb989f3969af98eb7676782b3388c9900b1616c4eeff92879c6016b0e3672e"
+    },
+    {
+      "path": "assets/bundles/bundle_zh_CN.properties",
+      "bytes": 738,
+      "sha256": "47a879b2b6806351f397c4ec5367f44f2bd12a0228862bbb9a1bc89be0e2477f"
+    },
+    {
+      "path": "assets/licenses/witherbean-MIT.txt",
+      "bytes": 1067,
+      "sha256": "aa7e51b6dbf74bc28778d5cdcb54c2cf927d38ccab85d76bf8f0a1c6b79be3ed"
+    },
+    {
+      "path": "assets/models/witherbean-head.json",
+      "bytes": 38848,
+      "sha256": "7d2393b21dfccf8128bfc88e4c6ce883e311094c5678831b68065707c58b8a94"
+    },
+    {
+      "path": "assets/models/witherbean-head.png",
+      "bytes": 14134,
+      "sha256": "0f3157693f15bd90762ac3741d6adec9b6e2fcf7c61f689e48ef8ce3d92e74d0"
+    },
+    {
+      "path": "assets/music/wither-storm-theme.ogg",
+      "bytes": 2256441,
+      "sha256": "0c80289ee3a92a15db7e950fa84ca119c4ae1ebad4b5e52975503f05d610aa3d"
+    },
+    {
+      "path": "assets/sounds/storm-roar.wav",
+      "bytes": 97064,
+      "sha256": "7be3554876706cc8bfb06a4a5fb74113cfd7323871aab9e48132e80089932f03"
+    },
+    {
+      "path": "assets/sounds/storm-rupture.wav",
+      "bytes": 61782,
+      "sha256": "93a2689b30e245d90c45ae1c0ce9aa9c5a2c43ec0ed67383c8b17b31196aa562"
+    },
+    {
+      "path": "assets/sprites/command-altar.png",
+      "bytes": 1533,
+      "sha256": "028f3a04fdbe457dfb82502e0cd41ce5b8a59abec7334322c79a6e810fac2c01"
+    },
+    {
+      "path": "assets/sprites/core-breaker-base.png",
+      "bytes": 366,
+      "sha256": "724e6f7612c06c48134a5cc1de8e9a8be1d0223aac149d4a14bc4b14519dcc4b"
+    },
+    {
+      "path": "assets/sprites/core-breaker.png",
+      "bytes": 491,
+      "sha256": "e34a41bdd20842b1e44cb05366948813e45fc0bbe14e8cc07c24166fe16551a4"
+    },
+    {
+      "path": "assets/sprites/storm-command-on.png",
+      "bytes": 245,
+      "sha256": "4c1bf733b1b4a1add560665e882f4d14029493ea09535644452645c0c3fb9e1a"
+    },
+    {
+      "path": "assets/sprites/storm-command.png",
+      "bytes": 252,
+      "sha256": "d48dd9629cc24c207ec8a05ee480558ede8ac475641cb335a30a3ea1944f0e83"
+    },
+    {
+      "path": "assets/sprites/wither-sickness.png",
+      "bytes": 251,
+      "sha256": "95befa579dd6b641bb6434187264ff90fb93ff526d7158fd34758ee4bcebe82a"
+    },
+    {
+      "path": "assets/sprites/wither-storm.png",
+      "bytes": 1464,
+      "sha256": "3c21784780dbbcd8c7d2298a010ddfd5d23a93ac4f99cdd09c6a33fb4de7d934"
+    },
+    {
+      "path": "assets/textures/supplied-material-atlas.png",
+      "bytes": 5310,
+      "sha256": "80509f111ffd5fb6e58d37f061a21f06a66998cb4086321c663b120053f9790d"
+    }
+  ],
+  "freshHeadlessPassed": 217,
+  "freshDesktopModes": [
+    "pixel",
+    "pixel2",
+    "layout",
+    "layout2",
+    "aim",
+    "aim2"
+  ],
+  "noRuntimeGameplaySourceChanges": true,
+  "thirdPartyLicensePreserved": true,
+  "rootGPL3LicensePreserved": true,
+  "inheritedAudioRedistributionIndependentlyVerified": false,
+  "authorAndCreditsVerifiedByActualModLoader": true,
+  "credentialsStoredInRepository": false
+}

@@ -1,0 +1,8 @@
+name: wither-storm
+main: wstorm.WitherStormMod
+displayName: "[b47aff]凋零风暴 · 无界吞噬[]"
+author: "sayed1145"
+version: "1.7.1"
+minGameVersion: "160.5"
+java: true
+description: "真实三维凋零风暴：盟友原生附身、单击图腾切换指挥与自主托管；初始五建筑并行吸收、单位优先追猎与空中牵引、移动攻击吞噬同时进行；触手近战对空对地；采用提供的黑紫材质，500独立环绕方块，深度遮挡与核心分裂机制。"

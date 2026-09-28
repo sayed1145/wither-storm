@@ -1,0 +1,15 @@
+{
+  version: 1,
+  initialMatter: 90,
+  matterPerVolume: 18,
+  initialHealth: 15000,
+  healthPerMatter: 14,
+  initialCore: 2600,
+  reach: 190,
+  extractionTicks: 150,
+  powerPerTick: 18,
+  summonTicks: 600,
+  voxelDetail: 8,
+  maxActive: 6,
+  musicGain: 0.55
+}

@@ -1,0 +1,48 @@
+{
+  "animation": {
+    "behindMarkerPixelsLegacyAndDepth": [
+      1504,
+      0
+    ],
+    "frontControlPixelsLegacyAndDepth": [
+      1734,
+      1734
+    ],
+    "earlyRearLightEyePixelsLegacyAndDepth": [
+      2669,
+      0
+    ],
+    "earlyFrontEyePixelsLegacyAndDepth": [
+      5680,
+      7640
+    ],
+    "lateRearPurplePixelsLegacyAndDepth": [
+      0,
+      0
+    ],
+    "passed": true
+  },
+  "animation2": {
+    "behindMarkerPixelsLegacyAndDepth": [
+      1504,
+      0
+    ],
+    "frontControlPixelsLegacyAndDepth": [
+      1734,
+      1734
+    ],
+    "earlyRearLightEyePixelsLegacyAndDepth": [
+      2669,
+      0
+    ],
+    "earlyFrontEyePixelsLegacyAndDepth": [
+      5680,
+      7640
+    ],
+    "lateRearPurplePixelsLegacyAndDepth": [
+      0,
+      0
+    ],
+    "passed": true
+  }
+}

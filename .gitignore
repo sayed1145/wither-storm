@@ -1,0 +1,25 @@
+# Generated files / downloaded tooling
+.cache/
+__pycache__/
+*.pyc
+build/
+dist/
+node_modules/
+release/*.zip
+
+# Local credentials and private configuration (never commit)
+.env
+.env.*
+!.env.example
+.git-credentials
+.netrc
+credentials.json
+*private-key*
+*.pem
+*.key
+
+# Editor / OS noise
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

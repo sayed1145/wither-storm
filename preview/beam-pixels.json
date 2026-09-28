@@ -1,0 +1,32 @@
+{
+  "pixel": {
+    "oldLayerGapPixels": [
+      275.47978322347,
+      200.8043100445934,
+      152.5762491721939
+    ],
+    "sharedDepthGapPixels": [
+      0.18805544395204649,
+      0.641850827840885,
+      1.0353702021016344
+    ],
+    "maxMeshToActualPurpleFaceWorldDistance": 0.04973800252645943,
+    "passed": true,
+    "diagnosticColor": "green; same installed beam geometry and actual imported head"
+  },
+  "pixel2": {
+    "oldLayerGapPixels": [
+      275.47978322347,
+      200.8043100445934,
+      152.5762491721939
+    ],
+    "sharedDepthGapPixels": [
+      0.18805544395204649,
+      0.641850827840885,
+      1.0353702021016344
+    ],
+    "maxMeshToActualPurpleFaceWorldDistance": 0.04973800252645943,
+    "passed": true,
+    "diagnosticColor": "green; same installed beam geometry and actual imported head"
+  }
+}
